@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+
 	err := common.DisplayLogo()
 	if err != nil {
 		return

@@ -10,7 +10,7 @@ package pkg
 
 // func TestWordCount(t *testing.T) {
 // 	assert.NotPanics(t, func() {
-// 		err := WordCount(test.txt)
+// 		err := WordCount()
 // 		assert.Nil(t, err)
 // 	})
 

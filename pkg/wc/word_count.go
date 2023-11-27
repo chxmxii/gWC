@@ -32,6 +32,7 @@ func WordCount() {
 
 	// Read file content
 	var file []byte
+
 	stat, err := os.Stdin.Stat()
 	if err != nil {
 		fmt.Printf("Error reading file [%s]: %s\n", file, err)
