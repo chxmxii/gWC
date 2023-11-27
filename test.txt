@@ -1,0 +1,4 @@
+Hello, 你好, こんにちは, Hola, مرحبًا!
+This is a test file containing characters from various languages.
+ASCII characters: abc123!@#
+Non-ASCII characters: çéüñß
